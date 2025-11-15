@@ -55,6 +55,6 @@
     ]
   },
   "dependencies": {
-    "@jswork/url-literal": "^1.0.0"
+    "@jswork/url-literal": "*"
   }
 }
