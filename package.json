@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-url-literal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for url-literal based on next.",
   "homepage": "https://js.work",
   "files": [
@@ -56,5 +56,12 @@
   },
   "dependencies": {
     "@jswork/url-literal": "*"
-  }
+  },
+  "keywords": [
+    "hash",
+    "next",
+    "query",
+    "wrap",
+    "url-literal"
+  ]
 }
